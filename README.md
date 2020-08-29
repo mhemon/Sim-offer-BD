@@ -4,7 +4,7 @@ BD All Sim Offer is specially designed for Bangladeshi Mobile Operator like Gram
 
 Google Play -> https://play.google.com/store/apps/details?id=com.xploreict.simofferbd
 
-We added almost all packages and offers of these 5 operators in our BD All Sim Offer app.
+i added almost all packages and offers of these 5 operators in our BD All Sim Offer app.
 
 <br>Features of BD All Sim Offer:</br>
 <br>→ Check Current Offer</br>
@@ -25,3 +25,5 @@ We added almost all packages and offers of these 5 operators in our BD All Sim O
 <br>→ Free Facebook Tips</br>
 <br>→ All Sim USSD</br>
 <br>→ Mobile Tips & Tricks</br>
+
+Thank You!
